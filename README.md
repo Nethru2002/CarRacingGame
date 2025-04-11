@@ -35,16 +35,6 @@ A simple yet fun 2D car racing game built with Java and Swing. Avoid incoming en
 4. **Run the game**:
    - Right-click `Main.java` → Run 'Main.main()'
 
-## Project Structure 📂
-
-CarRacingGame/
-├── src/
-│   ├── Main.java            # Entry point
-│   ├── GamePanel.java       # Main game logic
-│   ├── PlayerCar.java       # Player car implementation
-│   ├── EnemyCar.java        # Enemy car implementation
-│   └── Road.java            # Road animation
-
 ## Future Enhancements 🔮
 
 - [ ] Add car sprites/images
